@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<locators>
+	
+	<!--
+	<elem id="usuario-name" by="name" value="user"/>
+	<elem id="usuario-id" by="id" value="usuario"/>
+	<elem id="usuario-url" by="url" value="http://uol.com.br"/>
+	<elem id="usuario-xpath" by="xpath" value=".//*[@id='usuario']"/>
+	-->
+	
+	<elem id="usuario" 	by="name" value="user"/>
+	<elem id="password" by="name" value="pass"/>
+	<elem id="submit" 	by="xpath" value=".//*[@id='topo']/div/form[1]/fieldset/input"/>
+	
+	
+</locators>
